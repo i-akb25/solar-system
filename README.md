@@ -1,6 +1,6 @@
-# Project Title: SolarView 🌌🪐 - Explore the Enchanting Solar System!
+# SolarSystem 🌌🪐 - Explore the Enchanting Solar System!
 
-Welcome to SolarView, a captivating and visually stunning representation of our solar system! 🚀✨ This GitHub repository showcases a web-based project that offers an immersive and accurate portrayal of the celestial bodies within our cosmic neighborhood. With meticulous attention to detail and a focus on realism, SolarView allows you to explore the planets and their orbits in an interactive and engaging manner. 🪐🌞
+Welcome to SolarSystem, a captivating and visually stunning representation of our solar system! 🚀✨ This GitHub repository showcases a web-based project that offers an immersive and accurate portrayal of the celestial bodies within our cosmic neighborhood. With meticulous attention to detail and a focus on realism, SolarSystem allows you to explore the planets and their orbits in an interactive and engaging manner. 🪐🌞
 
 ## Key Features:
 
@@ -12,7 +12,7 @@ Welcome to SolarView, a captivating and visually stunning representation of our 
 
 - **Educational Insight** Gain a deeper understanding of our solar system's composition, planetary order, and relative distances through this educational visualization. 📚🌌
 
-## Live Demo: [Solar View](https://cognisolver.github.io/solar-system/)
+## Live Demo: [SolarSystem](https://cognisolver.github.io/solar-system/)
 
 ## Usage:
 
@@ -30,7 +30,7 @@ Welcome to SolarView, a captivating and visually stunning representation of our 
 
 ## Contributions:
 
-Contributions to this project are welcome! If you're passionate about space, astronomy, or web development, feel free to fork this repository, make enhancements, and submit pull requests. Whether it's refining the visual fidelity, adding more celestial bodies, or improving the educational aspects, your contributions can help make SolarView even more captivating. 🛰️👩‍🚀
+Contributions to this project are welcome! If you're passionate about space, astronomy, or web development, feel free to fork this repository, make enhancements, and submit pull requests. Whether it's refining the visual fidelity, adding more celestial bodies, or improving the educational aspects, your contributions can help make SolarSystem even more captivating. 🛰️👩‍🚀
 
 ## Credits:
 
