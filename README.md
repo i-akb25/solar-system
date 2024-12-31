@@ -12,7 +12,7 @@ Welcome to SolarSystem, a captivating and visually stunning representation of ou
 
 - **Educational Insight** Gain a deeper understanding of our solar system's composition, planetary order, and relative distances through this educational visualization. 📚🌌
 
-## Live Demo: [SolarSystem](https://cognisolver.github.io/solar-system/)
+## Live Demo: [SolarSystem](https://i-akb25.github.io/solar-system/)
 
 ## Usage:
 
